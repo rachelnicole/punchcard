@@ -1,0 +1,15 @@
+name: Image Testing
+description: Image Testing is fun
+id: images
+attributes:
+  - type: image
+    id: image-id
+    name: Image Name
+    description: Images are cute.
+  - type: text
+    id: service-name
+    name: Image Name
+    description: Write a really cool name please.
+    inputs:
+      text:
+        placeholder: add svc name      
